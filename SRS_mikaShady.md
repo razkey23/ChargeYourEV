@@ -11,41 +11,41 @@
 <div style="page-break-after: always"></div>
 
 1. Εισαγωγή
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1 Σκοπός Λογισμικού
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2 Διεπαφές
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1 Διεπαφές με εξωτερικά χαρακτηριστικά
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.2 Διεπαφές με το χρήστη
+	 * 1.1 Σκοπός Λογισμικού
+	 * 1.2 Διεπαφές
+		 * 1.2.1 Διεπαφές με εξωτερικά χαρακτηριστικά
+		 * 1.2.2 Διεπαφές με το χρήστη
 2. Αναφορές και πηγές πληροφοριών
 3. Προδιαγραφές Απαιτήσεων Λογισμικού
-3.1 Περιπτώσεις Χρήσης
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.1 1η Περίπτωση Χρήσης
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.1.1 Χρήστες που εμπλέκονται
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.1.2 Προυποθέσεις εκτέλεσης
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.1.3 Περιβάλλον εκτέλεσης
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.1.4 Δεδομένα Εισόδου
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.1.5 Παράμετροι
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.1.6 Αλληλουχία Ενεργειών-Προσδοκόμενη συμπεριφορά
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.2 2η Περίπτωση Χρήσης
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.2.1 Χρήστες που εμπλέκονται
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.2.2 Προυποθέσεις εκτέλεσης
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.1.3 Περιβάλλον εκτέλεσης
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.2.4 Δεδομένα Εισόδου
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.2.5 Παράμετροι
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.2.6 Αλληλουχία Ενεργειών-Προσδοκόμενη συμπεριφορά
-3.2 Απαιτήσεις Οργάνωσης Δεδομένων
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2.1 Περιγραφή Δεδομένων
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2.2 Απαιτήσεις και περιορισμοί πρόσβασης σε δεδομένα
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2.2.1 Στοιχεία Σταθμών
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2.2.2 Δεδομένα Χρηστών
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2.2.3 Δεδομένα Φόρτισης
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2.2.4 Δεδομένα Οχήματος
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2.3 Προδιαγραφές διατήρησης δεδομένων
-3.3 Περιορισμοί σχεδίασης
-3.4 Λοιπές Απαιτήσεις
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4.3 Απαιτήσεις Διαθεσιμότητας
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4.2 Απαιτήσεις Συντήρησης
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4.3 Απαιτήσεις Ασφάλειας
-3.5 Απαιτήσεις Επιδόσεων
+	* 3.1 Περιπτώσεις Χρήσης
+		* 3.1.1  Περίπτωση Χρήσης 1η
+			+ 3.1.1.1 Χρήστες που εμπλέκονται
+			+ 3.1.1.2 Προυποθέσεις εκτέλεσης
+			+ 3.1.1.3 Περιβάλλον εκτέλεσης
+			+ 3.1.1.4 Δεδομένα Εισόδου
+			+ 3.1.1.5 Παράμετροι
+			+ 3.1.1.6 Αλληλουχία Ενεργειών-Προσδοκόμενη συμπεριφορά
+		* 3.1.2  Περίπτωση Χρήσης 2η
+			+ 3.1.2.1 Χρήστες που εμπλέκονται
+			+ 3.1.2.2 Προυποθέσεις εκτέλεσης
+			+ 3.1.2.3 Περιβάλλον εκτέλεσης
+			+ 3.1.2.4 Δεδομένα Εισόδου
+			+ 3.1.2.5 Παράμετροι
+			+ 3.1.2.6 Αλληλουχία Ενεργειών-Προσδοκόμενη συμπεριφορά
+	* 3.2 Απαιτήσεις Οργάνωσης Δεδομένων
+		* 3.2.1 Περιγραφή Δεδομένων
+		* 3.2.2 Απαιτήσεις και περιορισμοί πρόσβασης σε δεδομένα
+			* 3.2.2.1 Στοιχεία Σταθμών
+			* 3.2.2.2 Δεδομένα Χρηστών
+			* 3.2.2.3 Δεδομένα Φόρτισης
+			* 3.2.2.4 Δεδομένα Οχήματος
+			* 3.2.3 Προδιαγραφές διατήρησης δεδομένων
+	* 3.3 Περιορισμοί σχεδίασης
+	* 3.4 Λοιπές Απαιτήσεις
+		* 3.4.3 Απαιτήσεις Διαθεσιμότητας
+		* 3.4.2 Απαιτήσεις Συντήρησης
+		* 3.4.3 Απαιτήσεις Ασφάλειας
+	* 3.5 Απαιτήσεις Επιδόσεων
 <div style="page-break-after: always"></div>
 
 
