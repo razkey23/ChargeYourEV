@@ -1,0 +1,280 @@
+{
+    "point": "120",
+    "periodTo": "20200101",
+    "periodFrom": "20180101",
+    "pointOperator": "EVKalamata Inc.",
+    "chargingSessionsList": [
+        {
+            "protocol": "\"Level 1 Low Domestic\"",
+            "sessionID": "73950",
+            "energyDelivered": 20.437,
+            "payment": "Cart",
+            "sessionIndex": 1,
+            "vehicleType": "HEV",
+            "finishedOn": "2018-05-07 23:49:31.0",
+            "startedOn": "2018-05-07 15:32:08.0"
+        },
+        {
+            "protocol": "\"Level 1 Low Domestic\"",
+            "sessionID": "75419",
+            "energyDelivered": 13.96,
+            "payment": "Cart",
+            "sessionIndex": 2,
+            "vehicleType": "HEV",
+            "finishedOn": "2018-05-12 23:28:18.0",
+            "startedOn": "2018-05-12 16:52:39.0"
+        },
+        {
+            "protocol": "\"Level 1 Low Domestic\"",
+            "sessionID": "71328",
+            "energyDelivered": 8.16,
+            "payment": "Cart",
+            "sessionIndex": 3,
+            "vehicleType": "ICE",
+            "finishedOn": "2018-06-08 20:57:20.0",
+            "startedOn": "2018-06-08 16:34:34.0"
+        },
+        {
+            "protocol": "\"Level 2 Medium\"",
+            "sessionID": "73961",
+            "energyDelivered": 18.463,
+            "payment": "Cart",
+            "sessionIndex": 4,
+            "vehicleType": "HEV",
+            "finishedOn": "2018-07-27 21:44:41.0",
+            "startedOn": "2018-07-27 16:46:42.0"
+        },
+        {
+            "protocol": "\"Level 2 Medium\"",
+            "sessionID": "73435",
+            "energyDelivered": 12.973,
+            "payment": "Cash",
+            "sessionIndex": 5,
+            "vehicleType": "PHEV",
+            "finishedOn": "2018-08-01 01:37:54.0",
+            "startedOn": "2018-07-31 21:23:23.0"
+        },
+        {
+            "protocol": "\"Level 1 Low Domestic\"",
+            "sessionID": "71336",
+            "energyDelivered": 7.757,
+            "payment": "Cash",
+            "sessionIndex": 6,
+            "vehicleType": "ICE",
+            "finishedOn": "2018-08-03 01:22:01.0",
+            "startedOn": "2018-08-02 17:12:54.0"
+        },
+        {
+            "protocol": "\"Level 1 Low Domestic\"",
+            "sessionID": "73436",
+            "energyDelivered": 13.192,
+            "payment": "Cart",
+            "sessionIndex": 7,
+            "vehicleType": "PHEV",
+            "finishedOn": "2018-08-04 14:36:15.0",
+            "startedOn": "2018-08-04 07:45:10.0"
+        },
+        {
+            "protocol": "\"Level 1 Low Domestic\"",
+            "sessionID": "73026",
+            "energyDelivered": 13.914,
+            "payment": "Cash",
+            "sessionIndex": 8,
+            "vehicleType": "BEV",
+            "finishedOn": "2018-10-03 01:23:32.0",
+            "startedOn": "2018-10-02 16:21:17.0"
+        },
+        {
+            "protocol": "\"Level 2 Medium\"",
+            "sessionID": "73449",
+            "energyDelivered": 5.072,
+            "payment": "Cart",
+            "sessionIndex": 9,
+            "vehicleType": "PHEV",
+            "finishedOn": "2018-11-09 01:21:47.0",
+            "startedOn": "2018-11-08 21:17:27.0"
+        },
+        {
+            "protocol": "\"Level 1 Low Domestic\"",
+            "sessionID": "73032",
+            "energyDelivered": 0.88,
+            "payment": "Cash",
+            "sessionIndex": 10,
+            "vehicleType": "BEV",
+            "finishedOn": "2018-11-13 01:35:15.0",
+            "startedOn": "2018-11-12 22:32:12.0"
+        },
+        {
+            "protocol": "\"Level 3 High FastCharge\"",
+            "sessionID": "73452",
+            "energyDelivered": 16.422,
+            "payment": "Cart",
+            "sessionIndex": 11,
+            "vehicleType": "PHEV",
+            "finishedOn": "2018-12-03 06:03:43.0",
+            "startedOn": "2018-12-03 03:05:23.0"
+        },
+        {
+            "protocol": "\"Level 3 High FastCharge\"",
+            "sessionID": "75452",
+            "energyDelivered": 3.563,
+            "payment": "Cash",
+            "sessionIndex": 12,
+            "vehicleType": "HEV",
+            "finishedOn": "2018-12-12 22:36:11.0",
+            "startedOn": "2018-12-12 18:44:26.0"
+        },
+        {
+            "protocol": "\"Level 2 Medium\"",
+            "sessionID": "75506",
+            "energyDelivered": 8.747,
+            "payment": "Cart",
+            "sessionIndex": 13,
+            "vehicleType": "HEV",
+            "finishedOn": "2018-12-17 22:47:41.0",
+            "startedOn": "2018-12-17 18:11:14.0"
+        },
+        {
+            "protocol": "\"Level 2 Medium\"",
+            "sessionID": "73454",
+            "energyDelivered": 12.172,
+            "payment": "Cash",
+            "sessionIndex": 14,
+            "vehicleType": "PHEV",
+            "finishedOn": "2018-12-19 03:10:45.0",
+            "startedOn": "2018-12-18 18:37:36.0"
+        },
+        {
+            "protocol": "\"Level 2 Medium\"",
+            "sessionID": "73043",
+            "energyDelivered": 4.003,
+            "payment": "Cash",
+            "sessionIndex": 15,
+            "vehicleType": "BEV",
+            "finishedOn": "2019-01-03 01:32:41.0",
+            "startedOn": "2019-01-02 19:04:51.0"
+        },
+        {
+            "protocol": "\"Level 2 Medium\"",
+            "sessionID": "73462",
+            "energyDelivered": 5.19,
+            "payment": "Cash",
+            "sessionIndex": 16,
+            "vehicleType": "PHEV",
+            "finishedOn": "2019-02-23 01:08:59.0",
+            "startedOn": "2019-02-22 16:23:35.0"
+        },
+        {
+            "protocol": "\"Level 3 High FastCharge\"",
+            "sessionID": "73996",
+            "energyDelivered": 29.844,
+            "payment": "Cart",
+            "sessionIndex": 17,
+            "vehicleType": "HEV",
+            "finishedOn": "2019-03-19 01:30:20.0",
+            "startedOn": "2019-03-18 14:50:02.0"
+        },
+        {
+            "protocol": "\"Level 3 High FastCharge\"",
+            "sessionID": "73476",
+            "energyDelivered": 11.405,
+            "payment": "Cash",
+            "sessionIndex": 18,
+            "vehicleType": "PHEV",
+            "finishedOn": "2019-06-06 20:51:19.0",
+            "startedOn": "2019-06-06 18:00:45.0"
+        },
+        {
+            "protocol": "\"Level 2 Medium\"",
+            "sessionID": "73477",
+            "energyDelivered": 6.528,
+            "payment": "Cash",
+            "sessionIndex": 19,
+            "vehicleType": "PHEV",
+            "finishedOn": "2019-07-01 01:40:37.0",
+            "startedOn": "2019-06-30 23:50:44.0"
+        },
+        {
+            "protocol": "\"Level 3 High FastCharge\"",
+            "sessionID": "73488",
+            "energyDelivered": 2.362,
+            "payment": "Cart",
+            "sessionIndex": 20,
+            "vehicleType": "PHEV",
+            "finishedOn": "2019-09-14 03:52:25.0",
+            "startedOn": "2019-09-14 03:30:56.0"
+        },
+        {
+            "protocol": "\"Level 1 Low Domestic\"",
+            "sessionID": "73083",
+            "energyDelivered": 0.926,
+            "payment": "Cart",
+            "sessionIndex": 21,
+            "vehicleType": "BEV",
+            "finishedOn": "2019-09-26 17:02:08.0",
+            "startedOn": "2019-09-26 16:31:03.0"
+        },
+        {
+            "protocol": "\"Level 2 Medium\"",
+            "sessionID": "73493",
+            "energyDelivered": 4.318,
+            "payment": "Cash",
+            "sessionIndex": 22,
+            "vehicleType": "PHEV",
+            "finishedOn": "2019-10-02 01:33:34.0",
+            "startedOn": "2019-10-02 00:18:13.0"
+        },
+        {
+            "protocol": "\"Level 1 Low Domestic\"",
+            "sessionID": "71399",
+            "energyDelivered": 7.967,
+            "payment": "Cash",
+            "sessionIndex": 23,
+            "vehicleType": "ICE",
+            "finishedOn": "2019-10-19 05:14:59.0",
+            "startedOn": "2019-10-18 16:48:21.0"
+        },
+        {
+            "protocol": "\"Level 3 High FastCharge\"",
+            "sessionID": "73086",
+            "energyDelivered": 6.572,
+            "payment": "Cart",
+            "sessionIndex": 24,
+            "vehicleType": "BEV",
+            "finishedOn": "2019-10-19 20:57:11.0",
+            "startedOn": "2019-10-19 19:46:54.0"
+        },
+        {
+            "protocol": "\"Level 2 Medium\"",
+            "sessionID": "73499",
+            "energyDelivered": 5.456,
+            "payment": "Cart",
+            "sessionIndex": 25,
+            "vehicleType": "PHEV",
+            "finishedOn": "2019-11-09 02:24:43.0",
+            "startedOn": "2019-11-08 17:34:57.0"
+        },
+        {
+            "protocol": "\"Level 3 High FastCharge\"",
+            "sessionID": "74038",
+            "energyDelivered": 15.595,
+            "payment": "Cash",
+            "sessionIndex": 26,
+            "vehicleType": "HEV",
+            "finishedOn": "2019-12-15 20:43:58.0",
+            "startedOn": "2019-12-15 18:25:45.0"
+        },
+        {
+            "protocol": "\"Level 3 High FastCharge\"",
+            "sessionID": "74041",
+            "energyDelivered": 5.422,
+            "payment": "Cash",
+            "sessionIndex": 27,
+            "vehicleType": "HEV",
+            "finishedOn": "2019-12-22 21:55:18.0",
+            "startedOn": "2019-12-22 20:31:49.0"
+        }
+    ],
+    "numberOfChargingSessions": 27,
+    "requestTimestamp": "2021-03-14 at 23:02:39 EET"
+}

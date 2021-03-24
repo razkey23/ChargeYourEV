@@ -1,0 +1,37 @@
+{
+    "periodTo": "2020-01-01",
+    "periodFrom": "2018-01-01",
+    "stationID": "43",
+    "sessionsSummary": [
+        {
+            "energyDelivered": 27.3246,
+            "pointID": "322",
+            "pointSessions": 2
+        },
+        {
+            "energyDelivered": 171.80101,
+            "pointID": "323",
+            "pointSessions": 19
+        },
+        {
+            "energyDelivered": 46.884632,
+            "pointID": "324",
+            "pointSessions": 9
+        },
+        {
+            "energyDelivered": 105.002,
+            "pointID": "325",
+            "pointSessions": 15
+        },
+        {
+            "energyDelivered": 116.619995,
+            "pointID": "326",
+            "pointSessions": 13
+        }
+    ],
+    "operator": " Stavrakakis & Sons",
+    "numberOfChargingSessions": 58,
+    "numberOfActivePoints": 5,
+    "requestTimestamp": "2021-03-14 22:51:35",
+    "totalEnergyDelivered": 467.63223
+}

@@ -1,0 +1,42 @@
+{  
+    "features": [
+          {
+              "stationName": "Manhattan St",
+              "stationLatitude": "39.550051",
+              "busyFactor": 0,
+              "stationOperator": "GreenCurrent.gr",
+              "stationLongitude": "21.762290",
+              "stationID": 1,
+              "energyProvider":{
+                  "providerID": 1,
+                  "providerName": "DEI"
+              }
+          },
+  
+          {
+              "stationName": "Anteligo",
+              "stationLatitude": "39.530051",
+              "busyFactor": 0,
+              "stationOperator": "GreenCurrent.gr",
+              "stationLongitude": "21.762490",
+              "stationID": 2,
+              "energyProvider":{
+                  "providerID": 1,
+                  "providerName": "DEI"
+              }
+          },
+  
+          {
+              "stationName": "Xmmmmm",
+              "stationLatitude": "39.520051",
+              "busyFactor": 0,
+              "stationOperator": "GreenCurrent.gr",
+              "stationLongitude": "21.762500",
+              "stationID": 2,
+              "energyProvider":{
+                  "providerID": 1,
+                  "providerName": "DEI"
+              }
+          }
+      ]
+  }
